@@ -1,0 +1,13 @@
+{
+  "name": "ouidio",
+  "version": "1.0.0",
+  "description": "Ouidio est un bot Twitch qui possède plusieurs fonctionnalités",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "keywords": [ "twitch", "bot", "chatbot"],
+  "author": "",
+  "license": "GPL-3.0"
+}
